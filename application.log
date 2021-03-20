@@ -1,0 +1,715 @@
+2021-01-04 21:14:17,518  INFO [main] NewClass:18 - Browser is launch successfully.
+2021-01-04 21:14:17,524 ERROR [main] NewClass:22 - Divisible by zero error
+2021-01-04 21:14:30,617  INFO [main] NewClass:30 - Title of the browser isFacebook – log in or sign up
+2021-01-04 21:14:31,103  INFO [main] NewClass:36 - Login is successful.
+2021-01-04 21:55:58,225 DEBUG [main] DatabaseImpl:888 - Finished reading system catalog.  Tables: [Employee] (Db=Database2.accdb)
+2021-01-04 21:58:24,893 DEBUG [main] DatabaseImpl:888 - Finished reading system catalog.  Tables: [Employee] (Db=Database2.accdb)
+2021-01-05 08:06:37,992 DEBUG [main] DatabaseImpl:888 - Finished reading system catalog.  Tables: [Employee] (Db=Database2.accdb)
+2021-01-15 14:32:19,108 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-01-15 14:32:19,113 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2021-01-15 14:32:19,119 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2021-01-15 14:32:19,119 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2021-01-15 14:32:19,556 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-01-15 14:32:19,557 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2021-01-15 14:32:19,558 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2021-01-15 14:32:19,558 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2021-01-15 14:32:19,563 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-01-15 14:32:19,564 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2021-01-15 14:32:19,565 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2021-01-15 14:32:19,565 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2021-01-15 14:32:19,588 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-01-15 14:32:19,589 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2021-01-15 14:32:19,590 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2021-01-15 14:32:19,591 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2021-01-15 14:32:19,617 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-01-15 14:32:19,618 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2021-01-15 14:32:19,619 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2021-01-15 14:32:19,619 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2021-01-15 14:32:19,649 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-01-15 14:32:19,650 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2021-01-15 14:32:19,651 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2021-01-15 14:32:19,651 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2021-01-15 14:32:19,660 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-01-15 14:32:19,682 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2021-01-15 14:32:19,683 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2021-01-15 14:32:19,683 DEBUG [main] cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2021-01-15 14:32:19,691 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-01-15 14:32:19,693 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2021-01-15 14:32:19,694 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2021-01-15 14:32:19,694 DEBUG [main] cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2021-01-15 14:32:19,698 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-01-15 14:32:19,699 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2021-01-15 14:32:19,699 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2021-01-15 14:32:19,700 DEBUG [main] cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2021-01-15 14:32:19,710 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-01-15 14:32:19,711 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2021-01-15 14:32:19,711 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2021-01-15 14:32:19,712 DEBUG [main] cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2021-01-15 14:32:19,718 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-01-15 14:32:19,719 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2021-01-15 14:32:19,719 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2021-01-15 14:32:19,721 DEBUG [main] cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2021-01-15 14:38:28,842 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-01-15 14:38:28,846 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2021-01-15 14:38:28,852 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2021-01-15 14:38:28,852 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2021-01-15 14:38:29,292 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-01-15 14:38:29,293 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2021-01-15 14:38:29,294 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2021-01-15 14:38:29,295 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2021-01-15 14:38:29,303 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-01-15 14:38:29,305 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2021-01-15 14:38:29,305 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2021-01-15 14:38:29,305 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2021-01-15 14:38:29,324 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-01-15 14:38:29,325 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2021-01-15 14:38:29,326 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2021-01-15 14:38:29,326 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2021-01-15 14:38:29,354 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-01-15 14:38:29,356 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2021-01-15 14:38:29,356 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2021-01-15 14:38:29,356 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2021-01-15 14:38:29,385 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-01-15 14:38:29,385 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2021-01-15 14:38:29,386 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2021-01-15 14:38:29,386 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2021-01-15 14:38:29,429 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-01-15 14:38:29,431 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2021-01-15 14:38:29,432 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2021-01-15 14:38:29,433 DEBUG [main] cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2021-01-15 14:38:29,445 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-01-15 14:38:29,446 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2021-01-15 14:38:29,446 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2021-01-15 14:38:29,447 DEBUG [main] cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2021-01-15 14:38:29,453 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-01-15 14:38:29,454 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2021-01-15 14:38:29,456 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2021-01-15 14:38:29,456 DEBUG [main] cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2021-01-15 14:38:29,470 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-01-15 14:38:29,470 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2021-01-15 14:38:29,472 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2021-01-15 14:38:29,473 DEBUG [main] cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2021-01-15 14:38:29,481 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-01-15 14:38:29,482 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2021-01-15 14:38:29,483 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2021-01-15 14:38:29,483 DEBUG [main] cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2021-03-18 18:32:55,980  INFO [main] AddContactClass:48 - Click on the left hand panel
+2021-03-18 18:32:55,980  INFO [main] AddContactClass:54 - Click on contact menu
+2021-03-18 18:32:59,899 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-18 18:32:59,899 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2021-03-18 18:32:59,906 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2021-03-18 18:32:59,906 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2021-03-18 18:33:00,468 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-18 18:33:00,469 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2021-03-18 18:33:00,469 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2021-03-18 18:33:00,469 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2021-03-18 18:33:00,474 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-18 18:33:00,474 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2021-03-18 18:33:00,474 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2021-03-18 18:33:00,476 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2021-03-18 18:33:00,486 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-18 18:33:00,486 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2021-03-18 18:33:00,488 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2021-03-18 18:33:00,488 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2021-03-18 18:33:00,505 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-18 18:33:00,505 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2021-03-18 18:33:00,505 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2021-03-18 18:33:00,505 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2021-03-18 18:33:00,515 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-18 18:33:00,515 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2021-03-18 18:33:00,515 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2021-03-18 18:33:00,516 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2021-03-18 18:33:00,533 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-18 18:33:00,533 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2021-03-18 18:33:00,533 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2021-03-18 18:33:00,533 DEBUG [main] cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2021-03-18 18:33:00,543 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-18 18:33:00,543 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2021-03-18 18:33:00,543 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2021-03-18 18:33:00,543 DEBUG [main] cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2021-03-18 18:33:00,543 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-18 18:33:00,554 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2021-03-18 18:33:00,554 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2021-03-18 18:33:00,554 DEBUG [main] cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2021-03-18 18:33:00,564 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-18 18:33:00,564 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2021-03-18 18:33:00,564 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2021-03-18 18:33:00,564 DEBUG [main] cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2021-03-18 18:33:00,574 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-18 18:33:00,574 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2021-03-18 18:33:00,574 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2021-03-18 18:33:00,580 DEBUG [main] cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2021-03-19 14:13:07,105 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 14:15:10,129 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 14:18:28,666 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 14:19:34,741 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 14:20:57,101 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 14:20:57,167 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 14:22:00,795 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 14:22:39,077 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 14:22:57,589 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 14:23:18,568 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 14:26:12,813 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 14:28:23,452 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 14:28:37,612 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-types.properties
+2021-03-19 14:29:49,318 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 14:29:50,620 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 14:43:20,591 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 14:43:22,044 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 15:02:47,240 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 15:03:56,539 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 15:07:38,093 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 15:08:51,802 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 15:11:48,332 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 15:12:05,008 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:12:05,010 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2021-03-19 15:12:05,014 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2021-03-19 15:12:05,015 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2021-03-19 15:12:05,403 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:12:05,405 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2021-03-19 15:12:05,406 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2021-03-19 15:12:05,406 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2021-03-19 15:12:05,413 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:12:05,413 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2021-03-19 15:12:05,415 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2021-03-19 15:12:05,415 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2021-03-19 15:12:05,426 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:12:05,426 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2021-03-19 15:12:05,427 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2021-03-19 15:12:05,429 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2021-03-19 15:12:05,436 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:12:05,449 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2021-03-19 15:12:05,449 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2021-03-19 15:12:05,450 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2021-03-19 15:12:05,466 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:12:05,466 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2021-03-19 15:12:05,469 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2021-03-19 15:12:05,469 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2021-03-19 15:12:05,506 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:12:05,506 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2021-03-19 15:12:05,506 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2021-03-19 15:12:05,506 DEBUG [main] cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2021-03-19 15:12:05,515 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:12:05,515 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2021-03-19 15:12:05,516 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2021-03-19 15:12:05,516 DEBUG [main] cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2021-03-19 15:12:05,517 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:12:05,517 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2021-03-19 15:12:05,517 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2021-03-19 15:12:05,517 DEBUG [main] cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2021-03-19 15:12:05,525 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:12:05,525 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2021-03-19 15:12:05,527 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2021-03-19 15:12:05,527 DEBUG [main] cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2021-03-19 15:12:05,527 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:12:05,527 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2021-03-19 15:12:05,527 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2021-03-19 15:12:05,527 DEBUG [main] cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2021-03-19 15:15:03,926 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 15:15:20,855 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:15:20,855 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2021-03-19 15:15:20,855 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2021-03-19 15:15:20,855 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2021-03-19 15:15:21,075 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:15:21,076 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2021-03-19 15:15:21,076 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2021-03-19 15:15:21,077 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2021-03-19 15:15:21,083 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:15:21,083 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2021-03-19 15:15:21,084 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2021-03-19 15:15:21,084 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2021-03-19 15:15:21,090 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:15:21,090 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2021-03-19 15:15:21,090 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2021-03-19 15:15:21,093 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2021-03-19 15:15:21,101 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:15:21,101 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2021-03-19 15:15:21,101 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2021-03-19 15:15:21,101 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2021-03-19 15:15:21,111 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:15:21,111 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2021-03-19 15:15:21,111 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2021-03-19 15:15:21,111 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2021-03-19 15:15:21,123 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:15:21,123 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2021-03-19 15:15:21,123 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2021-03-19 15:15:21,123 DEBUG [main] cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2021-03-19 15:15:21,123 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:15:21,123 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2021-03-19 15:15:21,123 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2021-03-19 15:15:21,143 DEBUG [main] cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2021-03-19 15:15:21,148 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:15:21,149 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2021-03-19 15:15:21,149 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2021-03-19 15:15:21,149 DEBUG [main] cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2021-03-19 15:15:21,149 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:15:21,149 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2021-03-19 15:15:21,149 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2021-03-19 15:15:21,149 DEBUG [main] cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2021-03-19 15:15:21,149 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:15:21,149 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2021-03-19 15:15:21,149 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2021-03-19 15:15:21,149 DEBUG [main] cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2021-03-19 15:17:05,101 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 15:17:24,530 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:17:24,531 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2021-03-19 15:17:24,532 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2021-03-19 15:17:24,532 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2021-03-19 15:17:24,787 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:17:24,787 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2021-03-19 15:17:24,788 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2021-03-19 15:17:24,788 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2021-03-19 15:17:24,792 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:17:24,794 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2021-03-19 15:17:24,794 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2021-03-19 15:17:24,794 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2021-03-19 15:17:24,803 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:17:24,804 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2021-03-19 15:17:24,804 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2021-03-19 15:17:24,805 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2021-03-19 15:17:24,814 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:17:24,814 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2021-03-19 15:17:24,815 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2021-03-19 15:17:24,815 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2021-03-19 15:17:24,825 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:17:24,825 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2021-03-19 15:17:24,826 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2021-03-19 15:17:24,826 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2021-03-19 15:17:24,851 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:17:24,851 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2021-03-19 15:17:24,851 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2021-03-19 15:17:24,851 DEBUG [main] cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2021-03-19 15:17:24,858 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:17:24,858 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2021-03-19 15:17:24,858 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2021-03-19 15:17:24,858 DEBUG [main] cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2021-03-19 15:17:24,868 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:17:24,869 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2021-03-19 15:17:24,869 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2021-03-19 15:17:24,869 DEBUG [main] cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2021-03-19 15:17:24,873 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:17:24,875 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2021-03-19 15:17:24,876 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2021-03-19 15:17:24,876 DEBUG [main] cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2021-03-19 15:17:24,879 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:17:24,879 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2021-03-19 15:17:24,879 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2021-03-19 15:17:24,879 DEBUG [main] cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2021-03-19 15:22:44,294 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 15:23:10,860  INFO [main] AddContactClass:46 - Click on the left hand panel
+2021-03-19 15:23:10,861  INFO [main] AddContactClass:52 - Click on contact menu
+2021-03-19 15:27:48,162 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 15:28:03,608  INFO [main] AddContactClass:46 - Click on the left hand panel
+2021-03-19 15:28:03,608  INFO [main] AddContactClass:52 - Click on contact menu
+2021-03-19 15:28:06,774 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:28:06,780 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2021-03-19 15:28:06,791 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2021-03-19 15:28:06,791 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2021-03-19 15:28:07,090 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:28:07,090 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2021-03-19 15:28:07,091 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2021-03-19 15:28:07,091 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2021-03-19 15:28:07,095 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:28:07,096 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2021-03-19 15:28:07,096 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2021-03-19 15:28:07,096 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2021-03-19 15:28:07,103 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:28:07,104 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2021-03-19 15:28:07,104 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2021-03-19 15:28:07,104 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2021-03-19 15:28:07,110 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:28:07,110 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2021-03-19 15:28:07,110 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2021-03-19 15:28:07,110 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2021-03-19 15:28:07,118 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:28:07,118 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2021-03-19 15:28:07,118 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2021-03-19 15:28:07,119 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2021-03-19 15:28:07,140 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:28:07,140 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2021-03-19 15:28:07,140 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2021-03-19 15:28:07,140 DEBUG [main] cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2021-03-19 15:28:07,140 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:28:07,140 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2021-03-19 15:28:07,140 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2021-03-19 15:28:07,140 DEBUG [main] cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2021-03-19 15:28:07,150 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:28:07,150 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2021-03-19 15:28:07,150 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2021-03-19 15:28:07,150 DEBUG [main] cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2021-03-19 15:28:07,155 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:28:07,155 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2021-03-19 15:28:07,155 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2021-03-19 15:28:07,155 DEBUG [main] cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2021-03-19 15:28:07,155 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 15:28:07,155 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2021-03-19 15:28:07,155 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2021-03-19 15:28:07,155 DEBUG [main] cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2021-03-19 16:32:39,241 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 16:44:30,608 DEBUG [main] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 16:44:45,321  INFO [main] AddContactClass:46 - Click on the left hand panel
+2021-03-19 16:44:45,324  INFO [main] AddContactClass:52 - Click on contact menu
+2021-03-19 16:44:52,410 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:44:52,415 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2021-03-19 16:44:52,423 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2021-03-19 16:44:52,423 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2021-03-19 16:44:53,292 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:44:53,292 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2021-03-19 16:44:53,294 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2021-03-19 16:44:53,294 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2021-03-19 16:44:53,305 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:44:53,305 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2021-03-19 16:44:53,305 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2021-03-19 16:44:53,305 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2021-03-19 16:44:53,347 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:44:53,349 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2021-03-19 16:44:53,350 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2021-03-19 16:44:53,350 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2021-03-19 16:44:53,404 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:44:53,405 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2021-03-19 16:44:53,406 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2021-03-19 16:44:53,407 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2021-03-19 16:44:53,424 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:44:53,424 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2021-03-19 16:44:53,424 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2021-03-19 16:44:53,430 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2021-03-19 16:44:53,462 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:44:53,462 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2021-03-19 16:44:53,462 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2021-03-19 16:44:53,462 DEBUG [main] cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2021-03-19 16:44:53,489 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:44:53,489 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2021-03-19 16:44:53,489 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2021-03-19 16:44:53,489 DEBUG [main] cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2021-03-19 16:44:53,489 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:44:53,496 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2021-03-19 16:44:53,497 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2021-03-19 16:44:53,497 DEBUG [main] cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2021-03-19 16:44:53,501 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:44:53,501 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2021-03-19 16:44:53,502 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2021-03-19 16:44:53,502 DEBUG [main] cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2021-03-19 16:44:53,502 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:44:53,502 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2021-03-19 16:44:53,502 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2021-03-19 16:44:53,502 DEBUG [main] cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2021-03-19 16:49:57,284 DEBUG [TestNG-test=Regression Testing-1] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 16:49:57,284 DEBUG [TestNG-test=Regression Testing-2] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 16:50:20,851  INFO [TestNG-test=Regression Testing-1] AddContactClass:46 - Click on the left hand panel
+2021-03-19 16:50:20,851  INFO [TestNG-test=Regression Testing-1] AddContactClass:52 - Click on contact menu
+2021-03-19 16:50:26,788 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:50:26,788 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2021-03-19 16:50:26,802 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2021-03-19 16:50:26,803 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2021-03-19 16:50:27,192 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:50:27,195 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2021-03-19 16:50:27,196 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2021-03-19 16:50:27,197 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2021-03-19 16:50:27,206 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:50:27,209 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2021-03-19 16:50:27,210 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2021-03-19 16:50:27,210 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2021-03-19 16:50:27,226 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:50:27,226 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2021-03-19 16:50:27,227 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2021-03-19 16:50:27,227 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2021-03-19 16:50:27,242 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:50:27,242 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2021-03-19 16:50:27,242 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2021-03-19 16:50:27,242 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2021-03-19 16:50:27,261 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:50:27,261 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2021-03-19 16:50:27,261 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2021-03-19 16:50:27,261 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2021-03-19 16:50:27,324 DEBUG [main] cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-19 16:50:27,346 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:50:27,346 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2021-03-19 16:50:27,346 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2021-03-19 16:50:27,346 DEBUG [main] cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2021-03-19 16:50:27,346 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:50:27,346 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2021-03-19 16:50:27,346 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2021-03-19 16:50:27,346 DEBUG [main] cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2021-03-19 16:50:27,364 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:50:27,364 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2021-03-19 16:50:27,364 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2021-03-19 16:50:27,364 DEBUG [main] cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2021-03-19 16:50:27,382 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:50:27,384 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2021-03-19 16:50:27,386 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2021-03-19 16:50:27,387 DEBUG [main] cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2021-03-19 16:50:27,395 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:50:27,395 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2021-03-19 16:50:27,395 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2021-03-19 16:50:27,395 DEBUG [main] cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2021-03-19 16:53:34,644 DEBUG [TestNG-test=Regression Testing-1] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 16:53:34,644 DEBUG [TestNG-test=Regression Testing-2] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 16:53:49,888  INFO [TestNG-test=Regression Testing-1] AddContactClass:46 - Click on the left hand panel
+2021-03-19 16:53:49,888  INFO [TestNG-test=Regression Testing-1] AddContactClass:52 - Click on contact menu
+2021-03-19 16:55:22,679 DEBUG [TestNG-test=Regression Testing-2] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 16:55:22,679 DEBUG [TestNG-test=Regression Testing-1] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 16:56:42,209 DEBUG [TestNG-test=Regression Testing-2] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 16:56:42,209 DEBUG [TestNG-test=Regression Testing-1] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 16:56:55,543  INFO [TestNG-test=Regression Testing-1] AddContactClass:46 - Click on the left hand panel
+2021-03-19 16:56:55,544  INFO [TestNG-test=Regression Testing-1] AddContactClass:52 - Click on contact menu
+2021-03-19 16:57:03,213 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:57:03,214 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2021-03-19 16:57:03,223 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2021-03-19 16:57:03,224 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2021-03-19 16:57:03,619 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:57:03,621 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2021-03-19 16:57:03,622 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2021-03-19 16:57:03,623 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2021-03-19 16:57:03,640 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:57:03,641 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2021-03-19 16:57:03,641 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2021-03-19 16:57:03,642 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2021-03-19 16:57:03,655 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:57:03,657 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2021-03-19 16:57:03,657 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2021-03-19 16:57:03,658 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2021-03-19 16:57:03,674 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:57:03,676 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2021-03-19 16:57:03,677 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2021-03-19 16:57:03,677 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2021-03-19 16:57:03,688 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:57:03,689 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2021-03-19 16:57:03,689 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2021-03-19 16:57:03,690 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2021-03-19 16:57:03,726 DEBUG [main] cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-19 16:57:03,736 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:57:03,737 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2021-03-19 16:57:03,739 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2021-03-19 16:57:03,740 DEBUG [main] cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2021-03-19 16:57:03,746 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:57:03,746 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2021-03-19 16:57:03,746 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2021-03-19 16:57:03,746 DEBUG [main] cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2021-03-19 16:57:03,756 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:57:03,757 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2021-03-19 16:57:03,757 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2021-03-19 16:57:03,757 DEBUG [main] cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2021-03-19 16:57:03,761 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:57:03,763 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2021-03-19 16:57:03,763 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2021-03-19 16:57:03,763 DEBUG [main] cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2021-03-19 16:57:03,767 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 16:57:03,767 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2021-03-19 16:57:03,767 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2021-03-19 16:57:03,767 DEBUG [main] cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2021-03-19 16:58:32,362 DEBUG [TestNG-test=Regression Testing-2] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 16:58:32,362 DEBUG [TestNG-test=Regression Testing-1] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 16:58:46,663  INFO [TestNG-test=Regression Testing-1] AddContactClass:46 - Click on the left hand panel
+2021-03-19 16:58:46,664  INFO [TestNG-test=Regression Testing-1] AddContactClass:52 - Click on contact menu
+2021-03-19 17:01:05,770 DEBUG [TestNG-test=Regression Testing-2] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 17:01:05,777 DEBUG [TestNG-test=Regression Testing-1] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 17:01:26,272  INFO [TestNG-test=Regression Testing-1] AddContactClass:46 - Click on the left hand panel
+2021-03-19 17:01:26,273  INFO [TestNG-test=Regression Testing-1] AddContactClass:52 - Click on contact menu
+2021-03-19 17:01:32,539 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:01:32,548 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2021-03-19 17:01:32,554 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2021-03-19 17:01:32,554 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2021-03-19 17:01:32,942 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:01:32,942 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2021-03-19 17:01:32,942 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2021-03-19 17:01:32,947 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2021-03-19 17:01:32,948 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:01:32,948 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2021-03-19 17:01:32,948 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2021-03-19 17:01:32,948 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2021-03-19 17:01:32,960 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:01:32,960 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2021-03-19 17:01:32,960 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2021-03-19 17:01:32,960 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2021-03-19 17:01:32,978 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:01:32,978 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2021-03-19 17:01:32,978 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2021-03-19 17:01:32,978 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2021-03-19 17:01:33,000 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:01:33,000 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2021-03-19 17:01:33,000 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2021-03-19 17:01:33,000 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2021-03-19 17:01:33,047 DEBUG [main] cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-19 17:01:33,054 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:01:33,054 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2021-03-19 17:01:33,054 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2021-03-19 17:01:33,054 DEBUG [main] cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2021-03-19 17:01:33,075 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:01:33,075 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2021-03-19 17:01:33,075 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2021-03-19 17:01:33,075 DEBUG [main] cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2021-03-19 17:01:33,075 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:01:33,075 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2021-03-19 17:01:33,075 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2021-03-19 17:01:33,075 DEBUG [main] cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2021-03-19 17:01:33,116 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:01:33,116 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2021-03-19 17:01:33,120 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2021-03-19 17:01:33,120 DEBUG [main] cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2021-03-19 17:01:33,148 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:01:33,153 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2021-03-19 17:01:33,154 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2021-03-19 17:01:33,154 DEBUG [main] cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2021-03-19 17:02:54,472 DEBUG [TestNG-test=Regression Testing-2] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 17:02:54,474 DEBUG [TestNG-test=Regression Testing-1] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 17:03:18,346  INFO [TestNG-test=Regression Testing-1] AddContactClass:46 - Click on the left hand panel
+2021-03-19 17:03:18,346  INFO [TestNG-test=Regression Testing-1] AddContactClass:52 - Click on contact menu
+2021-03-19 17:07:14,168 DEBUG [TestNG-test=Regression Testing-1] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 17:07:14,168 DEBUG [TestNG-test=Regression Testing-2] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 17:07:30,999  INFO [TestNG-test=Regression Testing-1] AddContactClass:46 - Click on the left hand panel
+2021-03-19 17:07:30,999  INFO [TestNG-test=Regression Testing-1] AddContactClass:52 - Click on contact menu
+2021-03-19 17:15:19,671 DEBUG [TestNG-test=Regression Testing-1] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 17:15:22,217 DEBUG [TestNG-test=Regression Testing-2] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 17:15:57,848  INFO [TestNG-test=Regression Testing-1] AddContactClass:46 - Click on the left hand panel
+2021-03-19 17:15:57,849  INFO [TestNG-test=Regression Testing-1] AddContactClass:52 - Click on contact menu
+2021-03-19 17:20:37,737 DEBUG [TestNG-test=Regression Testing-2] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 17:20:40,531 DEBUG [TestNG-test=Regression Testing-1] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 17:20:53,521  INFO [TestNG-test=Regression Testing-1] AddContactClass:46 - Click on the left hand panel
+2021-03-19 17:20:53,521  INFO [TestNG-test=Regression Testing-1] AddContactClass:52 - Click on contact menu
+2021-03-19 17:21:00,815 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:21:00,816 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2021-03-19 17:21:00,818 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2021-03-19 17:21:00,819 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2021-03-19 17:21:01,169 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:21:01,170 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2021-03-19 17:21:01,172 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2021-03-19 17:21:01,172 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2021-03-19 17:21:01,174 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:21:01,174 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2021-03-19 17:21:01,180 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2021-03-19 17:21:01,181 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2021-03-19 17:21:01,192 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:21:01,194 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2021-03-19 17:21:01,195 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2021-03-19 17:21:01,195 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2021-03-19 17:21:01,205 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:21:01,205 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2021-03-19 17:21:01,205 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2021-03-19 17:21:01,205 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2021-03-19 17:21:01,216 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:21:01,223 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2021-03-19 17:21:01,223 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2021-03-19 17:21:01,224 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2021-03-19 17:21:01,307 DEBUG [main] cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-19 17:21:01,318 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:21:01,318 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2021-03-19 17:21:01,318 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2021-03-19 17:21:01,318 DEBUG [main] cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2021-03-19 17:21:01,331 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:21:01,331 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2021-03-19 17:21:01,331 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2021-03-19 17:21:01,335 DEBUG [main] cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2021-03-19 17:21:01,337 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:21:01,337 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2021-03-19 17:21:01,348 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2021-03-19 17:21:01,348 DEBUG [main] cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2021-03-19 17:21:01,350 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:21:01,350 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2021-03-19 17:21:01,356 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2021-03-19 17:21:01,356 DEBUG [main] cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2021-03-19 17:21:01,358 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:21:01,370 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2021-03-19 17:21:01,370 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2021-03-19 17:21:01,370 DEBUG [main] cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2021-03-19 17:22:30,587 DEBUG [TestNG-test=Regression Testing-2] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 17:22:30,589 DEBUG [TestNG-test=Regression Testing-1] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 17:23:16,402  INFO [TestNG-test=Regression Testing-1] AddContactClass:46 - Click on the left hand panel
+2021-03-19 17:23:16,402  INFO [TestNG-test=Regression Testing-1] AddContactClass:52 - Click on contact menu
+2021-03-19 17:23:37,833 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:23:37,834 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2021-03-19 17:23:37,836 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2021-03-19 17:23:37,837 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2021-03-19 17:23:38,068 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:23:38,069 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2021-03-19 17:23:38,069 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2021-03-19 17:23:38,070 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2021-03-19 17:23:38,073 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:23:38,074 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2021-03-19 17:23:38,074 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2021-03-19 17:23:38,074 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2021-03-19 17:23:38,085 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:23:38,086 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2021-03-19 17:23:38,086 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2021-03-19 17:23:38,086 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2021-03-19 17:23:38,100 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:23:38,100 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2021-03-19 17:23:38,101 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2021-03-19 17:23:38,101 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2021-03-19 17:23:38,124 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:23:38,124 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2021-03-19 17:23:38,125 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2021-03-19 17:23:38,125 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2021-03-19 17:23:38,148 DEBUG [main] cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-19 17:23:38,160 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:23:38,162 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2021-03-19 17:23:38,163 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2021-03-19 17:23:38,163 DEBUG [main] cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2021-03-19 17:23:38,166 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:23:38,167 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2021-03-19 17:23:38,167 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2021-03-19 17:23:38,167 DEBUG [main] cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2021-03-19 17:23:38,167 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:23:38,172 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2021-03-19 17:23:38,172 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2021-03-19 17:23:38,172 DEBUG [main] cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2021-03-19 17:23:38,175 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:23:38,175 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2021-03-19 17:23:38,175 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2021-03-19 17:23:38,175 DEBUG [main] cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2021-03-19 17:23:38,183 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:23:38,183 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2021-03-19 17:23:38,184 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2021-03-19 17:23:38,184 DEBUG [main] cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2021-03-19 17:29:54,496 DEBUG [TestNG-test=Regression Testing-2] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 17:29:54,496 DEBUG [TestNG-test=Regression Testing-1] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 17:30:13,732  INFO [TestNG-test=Regression Testing-1] AddContactClass:46 - Click on the left hand panel
+2021-03-19 17:30:13,733  INFO [TestNG-test=Regression Testing-1] AddContactClass:52 - Click on contact menu
+2021-03-19 17:30:31,304 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:30:31,307 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2021-03-19 17:30:31,311 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2021-03-19 17:30:31,312 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2021-03-19 17:30:31,654 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:30:31,655 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2021-03-19 17:30:31,655 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2021-03-19 17:30:31,656 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2021-03-19 17:30:31,671 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:30:31,671 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2021-03-19 17:30:31,673 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2021-03-19 17:30:31,673 DEBUG [main] cache:45 - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2021-03-19 17:30:31,691 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:30:31,692 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2021-03-19 17:30:31,692 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2021-03-19 17:30:31,692 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2021-03-19 17:30:31,737 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:30:31,738 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2021-03-19 17:30:31,739 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2021-03-19 17:30:31,739 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2021-03-19 17:30:31,753 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:30:31,753 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard_en.ftl"): Not found
+2021-03-19 17:30:31,754 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-standard.ftl"): Found
+2021-03-19 17:30:31,754 DEBUG [main] cache:45 - Loading template for "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-standard.ftl"
+2021-03-19 17:30:31,923 DEBUG [main] cache:45 - "v3html/test-view/v3-html-standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-03-19 17:30:31,933 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:30:31,933 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2021-03-19 17:30:31,935 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2021-03-19 17:30:31,935 DEBUG [main] cache:45 - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2021-03-19 17:30:31,936 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:30:31,936 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2021-03-19 17:30:31,941 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2021-03-19 17:30:31,941 DEBUG [main] cache:45 - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2021-03-19 17:30:31,948 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:30:31,949 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2021-03-19 17:30:31,949 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2021-03-19 17:30:31,950 DEBUG [main] cache:45 - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2021-03-19 17:30:31,955 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:30:31,955 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2021-03-19 17:30:31,956 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2021-03-19 17:30:31,956 DEBUG [main] cache:45 - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2021-03-19 17:30:31,963 DEBUG [main] cache:45 - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-03-19 17:30:31,964 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2021-03-19 17:30:31,965 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2021-03-19 17:30:31,965 DEBUG [main] cache:45 - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/jdhage/.m2/repository/com/aventstack/extentreports/4.0.0/extentreports-4.0.0.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
+2021-03-19 17:33:39,096 DEBUG [TestNG-test=Regression Testing-1] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 17:33:39,096 DEBUG [TestNG-test=Regression Testing-2] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 17:34:54,642 DEBUG [TestNG-test=Regression Testing-2] ConfigurationReader:19 - Reading properties from file field-xpath.properties
+2021-03-19 17:34:54,642 DEBUG [TestNG-test=Regression Testing-1] ConfigurationReader:19 - Reading properties from file field-xpath.properties
