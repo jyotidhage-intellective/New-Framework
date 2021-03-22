@@ -42,8 +42,6 @@ public class Methods extends BaseAction {
     public WebElement listValue(ConfigTestRunner configTestRunner, String text){
         return configTestRunner.driver.findElement(By.xpath("//li[text()='"+text+"']"));
     }
-    public WebElement teamsiteExpander(ConfigTestRunner configTestRunner, int i){
-        return  configTestRunner.driver.findElement(By.xpath("//ul[@role='tree']//li["+i+"]//div[@class='MuiTreeItem-iconContainer']"));
-    }
+
 
 }

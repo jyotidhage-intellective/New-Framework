@@ -17,7 +17,7 @@ public class AddContactClass extends BaseAction {
     //add locators either use Factory or By reusable method
     @FindBy(xpath = "//div[contains(@class,'left-to-right')]") WebElement leftPanelVerticalMenu;
 
-    @FindBy(xpath = "//span[text()='Contacts']")
+    @FindBy(xpath = "//a[@href='/contacts']/following::button[1]")
     WebElement contact;
     @FindBy(xpath = "//input[@name='first_name']")
     WebElement Fname;
@@ -51,10 +51,10 @@ public class AddContactClass extends BaseAction {
         configTestRunner.getChildTest().log(Status.INFO,"Click on the contact menu on left hand panel");
         log.info("Click on contact menu");
         configTestRunner.elementUtil.setFocusClick(contact1);
-        addresCol.click();
+//        addresCol.click();
         //click on new button
 //        newBtn.click();
-        configTestRunner.elementUtil.setFocusClick(newBtn);
+//        configTestRunner.elementUtil.setFocusClick(newBtn);
         configTestRunner.getChildTest().log(Status.INFO,"Click on the new button");
         //enter firstname
         Fname.sendKeys(configTestRunner.getBaseAction().getTestData().get("Fname"));

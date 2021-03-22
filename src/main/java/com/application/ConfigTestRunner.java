@@ -53,8 +53,6 @@ public class ConfigTestRunner {
             baseAction.TestDataDic(rowNo, "TestData");
             loginAction.loginToApplication(configTestRunner);
             SCExecutor(Tcnumber);
-            //Logout from the application
-//            loginAction.LogOutFromApplication(configTestRunner);
         } else
             parentTest.log(Status.INFO, "No Test Case is considered for execution");
 
@@ -62,6 +60,8 @@ public class ConfigTestRunner {
 
     public void SCExecutor(String tcNumber) {
         if (tcNumber.equalsIgnoreCase("TC001")) {
+            addContactClass.fnAddNewContact(configTestRunner);
+        }else if (tcNumber.equalsIgnoreCase("TC002")) {
             addContactClass.fnAddNewContact(configTestRunner);
         }else{
                 parentTest.log(Status.INFO,"No Test Case is considered for execution");
@@ -74,6 +74,7 @@ public class ConfigTestRunner {
         config = new Configuration();
         loginAction = new LoginAction(driver);
         addContactClass = new AddContactClass(driver);
+
     }
     public String screenShotName(String screenShotName){
 

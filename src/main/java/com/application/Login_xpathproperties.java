@@ -1,12 +1,8 @@
 package com.application;
 
 import com.Utility.Constants;
-import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.PageFactory;
 
 public class Login_xpathproperties extends BaseAction {
     private String formName="Login";

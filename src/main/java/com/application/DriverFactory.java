@@ -4,6 +4,8 @@ import com.Utility.Constants;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.ie.InternetExplorerOptions;
 import org.openqa.selenium.remote.BrowserType;
@@ -46,7 +48,13 @@ public class DriverFactory {
             System.setProperty("webdriver.ie.driver", driverpath);
             tlDriver.set(new InternetExplorerDriver(ieOption));
             setImplicitlyWait(100);
-        }else{
+        }else if(browser.trim().equalsIgnoreCase("firefox")) {
+            driverpath = Constants.driverPath + "/geckidriver.exe";
+            System.setProperty("webdriver.gecko.driver", driverpath);
+            tlDriver.set(new FirefoxDriver());
+            setImplicitlyWait(100);
+        }
+        else{
             System.out.println("No Browser is selected for opening");
         }
         getDriver().manage().window().maximize();
