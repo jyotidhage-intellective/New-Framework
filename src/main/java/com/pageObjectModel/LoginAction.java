@@ -9,6 +9,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
 
 public class LoginAction extends BaseAction {
     public ExtentTest test;
@@ -55,6 +56,7 @@ public class LoginAction extends BaseAction {
             loginBtn.click();
             sleep(2000);
             try{
+                Assert.assertTrue(leftPanelVerticalMenu.isDisplayed());
                 if (configTestRunner.elementUtil.fnWaitForVisibility(leftPanelVerticalMenu, Constants.AJAX_TIMEOUT)) {
                     configTestRunner.getChildTest().log(Status.PASS,"Login to the application is successful"+configTestRunner.getChildTest().addScreenCaptureFromPath(configTestRunner.screenShotName("Login_Successfull")));
                 } else
@@ -76,6 +78,7 @@ public class LoginAction extends BaseAction {
         configTestRunner.elementUtil.waitAndClick(settingIcon,Constants.AJAX_TIMEOUT);
         configTestRunner.elementUtil.fnWaitForVisibility(logOutBtn,Constants.AJAX_TIMEOUT);
         configTestRunner.elementUtil.waitAndClick(logOutBtn,Constants.AJAX_TIMEOUT);
+        sleep(1000);
         if(configTestRunner.elementUtil.fnWaitForVisibility(userName,Constants.AJAX_TIMEOUT))
             configTestRunner.getChildTest().log(Status.PASS, "User is able to log out from the application");
         else

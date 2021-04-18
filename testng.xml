@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="All Test Suite" parallel="methods" thread-count="2">
-    <test name="Regression Testing" parallel="methods" thread-count="2">
-<!--        <parameter name="browser" value="chrome"></parameter>-->
+<!--<suite name="All Test Suite" parallel="methods" thread-count="2">-->
+<suite name="All Test Suite">
+<!--    <test name="Regression Testing" parallel="methods" thread-count="2">-->
+    <test name="chrome" >
+        <parameter name="browser" value="chrome"></parameter>
         <classes>
             <class name="com.tests.DriverClass">
             </class>
         </classes>
     </test>
-<!--    <test name="FirefoxTest">-->
-<!--        <parameter name="browser" value="Firefox"></parameter>-->
-<!--        <classes>-->
-<!--            <class name="com.tests.DriverClass"></class>-->
-<!--        </classes>-->
-<!--    </test>-->
+    <test name="FirefoxTest">
+        <parameter name="browser" value="firefox"></parameter>
+        <classes>
+            <class name="com.tests.DriverClass"></class>
+        </classes>
+    </test>
 </suite>

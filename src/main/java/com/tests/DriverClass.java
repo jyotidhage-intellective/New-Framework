@@ -10,8 +10,10 @@ import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 import com.pageObjectModel.LoginAction;
 import org.openqa.selenium.WebDriver;
+import org.testng.Assert;
 import org.testng.ITestResult;
 import org.testng.annotations.*;
+import org.testng.asserts.SoftAssert;
 
 import java.io.File;
 import java.text.DateFormat;
@@ -23,8 +25,9 @@ public class DriverClass {
     public String destFile;
     public ExtentTest test;
     public ExtentHtmlReporter htmlReports;   //to generate an html file
-    private ExtentReports extent;
+    private static ExtentReports extent;
     private ConfigTestRunner configTestRunnerLocal;
+    private WebDriver driver;
 
     @BeforeSuite
     public void extentReportConfig(){
@@ -41,18 +44,19 @@ public class DriverClass {
         htmlReports = new ExtentHtmlReporter(destFile + "\\" +destDir);  //to generate an html file
         extent = new ExtentReports();
         extent.attachReporter(htmlReports);
+        setExtent(extent);
         htmlReports.config().setReportName("Free CRM Application");
         htmlReports.config().setTheme(Theme.STANDARD);
         htmlReports.config().setDocumentTitle("FreeCrm Test Result");
     }
     @BeforeMethod
-    public void initializeBrowser(){
+    @Parameters("browser")
+    public void initializeBrowser(String browser){
         DriverFactory driverFactory = new DriverFactory();
-        WebDriver driver =driverFactory.startBrowser("chrome");
+        driver =driverFactory.startBrowser(browser);
         driver.get(Constants.URL);
     }
     @Test
-   // @Parameters("browser")
     public void SanityTest001(){
         ConfigTestRunner configTestRunner = new ConfigTestRunner(extent);
         configTestRunner.setConfigTestRunner(configTestRunner);
@@ -61,7 +65,6 @@ public class DriverClass {
         configTestRunner.run("TC001");
     }
     @Test
-    // @Parameters("browser")
     public void SanityTest002(){
         ConfigTestRunner configTestRunner = new ConfigTestRunner(extent);
         configTestRunner.setConfigTestRunner(configTestRunner);
@@ -74,30 +77,23 @@ public class DriverClass {
         if(testResult.getStatus()== ITestResult.FAILURE){
             String name ="Test_Fail_ScreenShot";
             try {
-                getConfigTestRunnerLocal().getChildTest().log(Status.FAIL, "Test is failed" + getConfigTestRunnerLocal().getChildTest().addScreenCaptureFromPath(getConfigTestRunnerLocal().capture(name)));
+                getConfigTestRunnerLocal().getChildTest().log(Status.FAIL, "Test is failed" + getConfigTestRunnerLocal().getChildTest().addScreenCaptureFromPath(getConfigTestRunnerLocal().screenShotName(name)));
             }catch (Exception exc){
                 exc.printStackTrace();
             }
+            getConfigTestRunnerLocal().getBaseAction().setCellData("Fail",getConfigTestRunnerLocal().getBaseAction().rowValue(getConfigTestRunnerLocal().getBaseAction().getTestCase().get("TC_ID"), getConfigTestRunnerLocal().getBaseAction().ColumnValue("TC_ID","TestCase")),getConfigTestRunnerLocal().getBaseAction().ColumnValue("Status","TestCase"));
         }  else if(testResult.getStatus() == ITestResult.SKIP){
             test.log(Status.SKIP,testResult.getThrowable());
+            getConfigTestRunnerLocal().getBaseAction().setCellData("Skip",getConfigTestRunnerLocal().getBaseAction().rowValue(getConfigTestRunnerLocal().getBaseAction().getTestCase().get("TC_ID"), getConfigTestRunnerLocal().getBaseAction().ColumnValue("TC_ID","TestCase")),getConfigTestRunnerLocal().getBaseAction().ColumnValue("Status","TestCase"));
         }
-        LoginAction loginAction = new LoginAction(DriverFactory.getDriver());
-        try {
-            loginAction.LogOutFromApplication(getConfigTestRunnerLocal());
-        }catch (Exception e){
-
-        }
+        getConfigTestRunnerLocal().getBaseAction().setCellData("Pass",getConfigTestRunnerLocal().getBaseAction().rowValue(getConfigTestRunnerLocal().getBaseAction().getTestCase().get("TC_ID"), getConfigTestRunnerLocal().getBaseAction().ColumnValue("TC_ID","TestCase")),getConfigTestRunnerLocal().getBaseAction().ColumnValue("Status","TestCase"));
     }
     @AfterSuite
     public void End_SetUp(){
         getConfigTestRunnerLocal().getExtent().flush();
-        Set<String> windowHandle = getConfigTestRunnerLocal().driver.getWindowHandles();
-        for(String s:windowHandle) {
-            if (getConfigTestRunnerLocal().driver != null)
-                getConfigTestRunnerLocal().driver.quit();
-        }
+        if(getConfigTestRunnerLocal().driver!=null)
+        getConfigTestRunnerLocal().driver.quit();
     }
-
 
     public ConfigTestRunner getConfigTestRunnerLocal() {
         return configTestRunnerLocal;
@@ -107,4 +103,11 @@ public class DriverClass {
         this.configTestRunnerLocal = configTestRunnerLocal;
     }
 
+    public ExtentReports getExtent() {
+        return extent;
+    }
+
+    public void setExtent(ExtentReports extent) {
+        this.extent = extent;
+    }
 }

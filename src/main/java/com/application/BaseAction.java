@@ -14,6 +14,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import javax.security.auth.login.Configuration;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.InputStream;
 import java.util.List;
@@ -29,6 +30,7 @@ public  class BaseAction {
     private ExtentReports extent;
     private static XSSFWorkbook wb;
     private static XSSFSheet sh;
+    private int Rowcnt;
     File Src;
     public Map<String, String> testCase = new ConcurrentHashMap<String, String>();
     private Map<String, String> testData = new ConcurrentHashMap<String, String>();
@@ -53,8 +55,15 @@ public  class BaseAction {
 
     public void readExcelDataFile(String FilePath) {
         InputStream is;
+        FileInputStream Src=null;
         if (!Constants.TestDataPath.isEmpty() ) {
-            Src = new File(System.getProperty("user.dir")+Constants.TestDataPath+FilePath);
+            try {
+//                Src = new File(System.getProperty("user.dir") + Constants.TestDataPath + FilePath);
+                Src = new FileInputStream(System.getProperty("user.dir") + Constants.TestDataPath + FilePath);
+            }catch (Exception e){
+
+            }
+
         } else {
             is = getClass().getResourceAsStream(FilePath);
             try {
@@ -149,6 +158,24 @@ public  class BaseAction {
         }
         if (!Exist){
             System.out.println(RowValue+" This row value is not exist.");
+        }
+        return -1;
+    }
+    public int rowValue(String RowData, int colNo){
+        Rowcnt = sh.getLastRowNum();
+        for (int j = 0 ; j<=Rowcnt ; j++ ) {
+            try {
+                String Value = sh.getRow(j).getCell(colNo).getStringCellValue().trim();
+                if (RowData.trim().equals(Value.trim())) {
+                    Exist = true;
+                    return j;
+                }
+            }catch (Exception e1){
+
+            }
+        }
+        if (!Exist){
+            System.out.println(RowData+" This row is not exist.");
         }
         return -1;
     }
@@ -276,7 +303,6 @@ public  class BaseAction {
         }
 
     }
-
     public Map<String, String> getTestCase() {
         return testCase;
     }

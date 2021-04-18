@@ -31,13 +31,14 @@ public class ConfigTestRunner {
     private Configuration config;
     public ElementUtil elementUtil;
     public AddContactClass addContactClass;
-    public WebDriver driver= DriverFactory.getDriver();
+    public WebDriver driver=DriverFactory.getDriver();
     public String TestCase_Id;
     public Map<String, String> testCase = new ConcurrentHashMap<>();
     public Map<String, String> testData = new ConcurrentHashMap<>();
 
     public ConfigTestRunner(ExtentReports extent) {
         setExtent(extent);
+        //setDriver(driver);
     }
 
     public void run(String Tcnumber) {
@@ -53,6 +54,8 @@ public class ConfigTestRunner {
             baseAction.TestDataDic(rowNo, "TestData");
             loginAction.loginToApplication(configTestRunner);
             SCExecutor(Tcnumber);
+            loginAction.LogOutFromApplication(configTestRunner);
+            driver.close();
         } else
             parentTest.log(Status.INFO, "No Test Case is considered for execution");
 

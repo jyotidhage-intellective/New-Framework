@@ -5,7 +5,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.ie.InternetExplorerOptions;
 import org.openqa.selenium.remote.BrowserType;
@@ -49,7 +48,7 @@ public class DriverFactory {
             tlDriver.set(new InternetExplorerDriver(ieOption));
             setImplicitlyWait(100);
         }else if(browser.trim().equalsIgnoreCase("firefox")) {
-            driverpath = Constants.driverPath + "/geckidriver.exe";
+            driverpath = Constants.driverPath + "/geckodriver.exe";
             System.setProperty("webdriver.gecko.driver", driverpath);
             tlDriver.set(new FirefoxDriver());
             setImplicitlyWait(100);
